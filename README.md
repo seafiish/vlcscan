@@ -13,4 +13,7 @@ cd src/vlcscan
 ```
 
 ### USAGE
-loops can be named anything, it'll just iterate through all the .mp4 files
+loop videos can be named anything as long as they're in the `loops` folder, it'll just iterate through all the .mp4 files
+
+### TODO
+make it so it reads videos from external flash drives, add scanning capability
