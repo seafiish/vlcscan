@@ -1,7 +1,7 @@
 HIGHLY WIP DON'T EXPECT TO WORK YET
 
 ### INSTALLATION
-flash a fresh rasberry pi OS lite  
+flash a fresh rasberry pi OS lite 64 bit  
 install git `sudo apt install git`
 
 clone this repo and run the install script:
