@@ -5,7 +5,7 @@ from pathlib import Path
 loops_dir = Path.cwd() / "loops"
 #video_extensions = ('.mp4', '.mov', '.avi', '.mkv') # for if I want to add support for other extensions
 
-vlc_instance = vlc.Instance()
+vlc_instance = vlc.Instance('--aout=alsa')
 player = vlc_instance.media_player_new()
 player.set_fullscreen(True)
 

@@ -14,5 +14,3 @@ sudo apt install vlc
 # setup python venv and install pip dependencies
 python3 -m venv venv
 venv/bin/pip3 install python-vlc
-
-#TODO add wayland stuff? if needed
