@@ -6,7 +6,7 @@ flash a fresh rasberry pi OS lite
 git clone this repo and run the install script:
 
 ```
-git clone <link> src/vlcscan
+git clone https://github.com/seafiish/vlcscan.git src/vlcscan
 cd src/vlcscan
 bash install.sh
 ```
