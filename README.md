@@ -18,4 +18,6 @@ loop videos can be named anything as long as they're in the `loops` folder, it'l
 ### TODO
 make it so it reads videos from external flash drives  
 add scanning capability (seperate, optional module)  
-add configuration
+add configuration  
+remove videos lol  
+after full functionality, rewrite in zig for best performance? depends on difficulty
