@@ -1,3 +1,5 @@
+HIGHLY WIP DON'T EXPECT TO WORK YET
+
 INSTALLATION
 flash a fresh rasberry pi OS lite
 
