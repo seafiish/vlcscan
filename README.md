@@ -2,13 +2,14 @@ HIGHLY WIP DON'T EXPECT TO WORK YET
 
 ### INSTALLATION
 flash a fresh rasberry pi OS lite
+install git `sudo apt install git`
 
-git clone this repo and run the install script:
+clone this repo and run the install script:
 
 ```
 git clone https://github.com/seafiish/vlcscan.git src/vlcscan
 cd src/vlcscan
-bash install.sh
+./install.sh
 ```
 
 ### USAGE
